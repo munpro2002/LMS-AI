@@ -58,9 +58,6 @@ if __name__ == '__main__':
         "date_registration",
         "region",
         "highest_education",
-        "age_band",
-        "disability",
-        "num_of_prev_attempts",
         "inprogress_score"
     ]
     
